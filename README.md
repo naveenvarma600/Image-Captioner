@@ -2,7 +2,7 @@
  <h2> Image-Captioner </h2>
 </div>
 
-This project helps captioning images using various concepts like MLP, CNN, RNN, Language models, Word embeddings and Transfer Learning (wiht RESNET)
+This project helps captioning images using various concepts like MLP, CNN, RNN, Language models, Word embeddings and Transfer Learning (with RESNET)
 
 Dataset Link: https://www.kaggle.com/datasets/shadabhussain/flickr8k   
 <br>
